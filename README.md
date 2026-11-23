@@ -1,2 +1,2 @@
-# dsh-demo-clean
+# Demo Clean
 dsh-superagent clean demo
